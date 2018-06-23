@@ -1,4 +1,4 @@
-# HR-Analytics-in-Python-Predicting-Employee-Churn
+# HR Analytics in Python Predicting Employee Churn
 
 What is HR Analytics?
 
